@@ -50,7 +50,13 @@ Edit
 🔗 Resources
 📚 ARIMA Model Guide: Statsmodels Documentation
 📚 Yahoo Finance API: yFinance Library
+![Image](https://github.com/user-attachments/assets/6ecfcecf-b305-4ff2-a826-ac875ea4d8f3)
 
+![Image](https://github.com/user-attachments/assets/a5ee2baa-3e65-4d18-9f47-8f6b4dfab312)
+
+![Image](https://github.com/user-attachments/assets/f0140b0f-0e83-4532-808a-29558c4b4f5f)
+
+![Image](https://github.com/user-attachments/assets/713b68b9-4cdf-461e-8e82-b4f75af77b5a)
 📬 Contact
 If you have any questions, feel free to connect!
 👤 Rajat Chattopadhyay
